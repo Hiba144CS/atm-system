@@ -137,3 +137,14 @@ Or run it from Terminal:
 - Computer Science Department
 - Course: CS2132 – Object-Oriented Programming
 - Instructor: Dr. Fidaa Abed
+
+## Project Contributors
+
+This project was collaboratively developed by:
+
+- **Hiba Amanulla** — [GitHub](https://github.com/Hiba144CS)
+- **Ghala Al-Ghamdi** — [GitHub](https://github.com/gghalaa)
+
+Both contributors participated equally in the development, implementation, and evaluation of this project.
+
+The project was completed collaboratively before being uploaded to GitHub.
